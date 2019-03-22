@@ -1,0 +1,9 @@
+#include <cstdio>
+
+ int main()
+ {
+ 	
+ 	printf("\n1\t223\t45\n89\t5\t4321\n66\t54\t31");
+ 
+ 	
+ }
